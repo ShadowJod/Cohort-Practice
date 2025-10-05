@@ -136,5 +136,140 @@ body {
   color: rgba(0, 0, 0, 0.889);
 }
 
+#container3 {
+  height: 80%;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 10px;
+  gap: 1%;
+  
+}
 
+#child1 {
+  width: 49%;
+  height: 100%;
+  background-image: url(https://www.apple.com/v/home/ch/images/promos/apple-watch-series-11/promo_apple_watch_series_11__b63hxviqvonm_large.jpg);
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-top: 50px;
+  
+}
+#child1 h2 {
+  font-size: 35px;
+}
 
+#child1 h2 span {
+  font-weight: 200;
+}
+
+#child1 p {
+  padding-top: 10px;
+  font-size: 20px;
+}
+
+#child2 {
+  width: 49%;
+  height: 100%;
+  background-image: url(https://www.apple.com/v/home/ch/images/promos/airpods-pro-3/promo_airpodspro_3__f6xmza7bglei_medium.jpg);
+  background-size: cover;
+  background-position: center;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-top: 50px;
+  text-align: center;
+}
+#child2 h2 {
+  font-size: 35px;
+}
+
+#child2 p {
+  padding-top: 10px;
+  font-size: 20px;
+}
+
+#child3 {
+  width: 49%;
+  height: 100%;
+  background-image: url(https://www.apple.com/v/home/ch/images/promos/education/promo_edu__efkxh2h1luoi_large.jpg);
+  background-size: cover;
+  background-position: center;
+  margin-top: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-top: 350px;
+  text-align: center;
+}
+
+#child3 h2 {
+  font-size: 35px;
+  color: white;
+}
+
+#child3 p {
+  padding-top: 5px;
+  font-size: 20px;
+  font-weight: 500;
+  color: white;
+}
+
+#child4 {
+  width: 49%;
+  height: 100%;
+  background-image: url(https://www.apple.com/v/home/ch/images/promos/macbook-air/promo_macbook_air__fqowrtnxewqe_large.jpg);
+  background-size: cover;
+  background-position: center;
+  margin-top: 10px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-top: 50px;
+}
+
+#child4 h2 {
+  font-size: 35px;
+}
+
+#child4 p {
+  padding-top: 5px;
+  font-size: 20px;
+}
+#child5 {
+  width: 49%;
+  height: 100%;
+  background-image: url(https://www.apple.com/v/home/ch/images/promos/iphone-tradein/promo_iphone_tradein__bugw15ka691e_large.jpg);
+  background-size: cover;
+  background-position: center;
+  margin-top: 10px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-top: 50px;
+}
+
+#child5 h2 {
+  font-size: 35px;
+}
+
+#child5 p {
+  padding-top: 5px;
+  font-size: 20px;
+}
+
+#child6 {
+  width: 49%;
+  height: 100%;
+  background-image: url(https://www.apple.com/v/home/ch/images/promos/apple-card/promo_apple_card__5cm7draujpey_large.jpg);
+  background-size: cover;
+  background-position: center;
+  margin-top: 10px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-top: 50px;
+}
+#child6 h2 {
+  font-size: 35px;
+}
+
+#child6 p {
+  padding-top: 5px;
+  font-size: 20px;
+}
